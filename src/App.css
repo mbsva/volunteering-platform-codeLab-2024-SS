@@ -1,0 +1,6 @@
+.custom-modal {
+  width: 80% !important;
+  border-radius: 10px !important;
+  max-width: 900px !important;
+  max-height: 90vh !important;
+}

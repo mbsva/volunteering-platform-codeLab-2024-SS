@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df839a08.css",
+    "main.js": "/static/js/main.32ed502c.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/skills.svg": "/static/media/skills.fe233d34430c0767a84b914818e8d7d1.svg",
+    "static/media/status.svg": "/static/media/status.8da6b558c6a5297d6477db3ae6e3796b.svg",
+    "static/media/password.svg": "/static/media/password.6c228d9684897c1c1382851e282a8ad7.svg",
+    "static/media/phone.svg": "/static/media/phone.d8d68a177679e7fa0d626e49e6abe5ca.svg",
+    "static/media/location.svg": "/static/media/location.f12aef2fc18e2dd5a0c9969f1da107f6.svg",
+    "index.html": "/index.html",
+    "static/media/date.svg": "/static/media/date.7f611888b6c7968bb6cec5b4ab612301.svg",
+    "static/media/user.svg": "/static/media/user.7cd98b64041ec46ed00eed57ad4d0a63.svg",
+    "static/media/close.svg": "/static/media/close.256a995879caf2e638478d8d4486edad.svg",
+    "main.df839a08.css.map": "/static/css/main.df839a08.css.map",
+    "main.32ed502c.js.map": "/static/js/main.32ed502c.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df839a08.css",
+    "static/js/main.32ed502c.js"
+  ]
+}

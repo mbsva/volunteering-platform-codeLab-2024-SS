@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+    font-family: 'Lato', sans-serif;
+}
+body {
+    @apply font-sans;
+}
+
+.custom-modal {
+    width: 80% !important;
+    border-radius: 10px !important;
+    max-width: 900px !important;
+    max-height: 90vh !important;
+}
